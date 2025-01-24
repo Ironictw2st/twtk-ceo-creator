@@ -21,8 +21,6 @@ Click the green "Code" button and select "Download ZIP."
 
 Extract the contents to a desired folder.
 
-Usage
-
 # Step 2: Run the Application
 
 Open a terminal (or command prompt) and navigate to the directory containing ceocreator.py.
