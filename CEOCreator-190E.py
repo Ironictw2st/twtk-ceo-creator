@@ -335,7 +335,7 @@ def run_application():
                             writer.writerow({'initial_data_stage': initial_data_key , 'active_ceo': "3k_main_ancillary_weapon_dual_swords_common", 'starting_points_delta': 0, 'auto_id': random.randint(100000, 9999999)})
                             writer.writerow({'initial_data_stage': initial_data_key , 'active_ceo': "3k_main_ancillary_weapon_double_edged_sword_common", 'starting_points_delta': 0, 'auto_id': random.randint(100000, 9999999)})
                         if element == "metal":
-                            
+                            writer.writerow({'initial_data_stage': initial_data_key , 'active_ceo': "3k_main_ancillary_weapon_sword_and_shield_common", 'starting_points_delta': 0, 'auto_id': random.randint(100000, 9999999)})
                             writer.writerow({'initial_data_stage': initial_data_key , 'active_ceo': "3k_main_ancillary_weapon_dual_swords_common", 'starting_points_delta': 0, 'auto_id': random.randint(100000, 9999999)})
                             writer.writerow({'initial_data_stage': initial_data_key , 'active_ceo': "3k_main_ancillary_mount_grey_horse", 'starting_points_delta': 0, 'auto_id': random.randint(100000, 9999999)})
                             writer.writerow({'initial_data_stage': initial_data_key , 'active_ceo': "3k_main_ancillary_weapon_single_edged_sword_common", 'starting_points_delta': 0, 'auto_id': random.randint(100000, 9999999)})
@@ -343,7 +343,7 @@ def run_application():
                             writer.writerow({'initial_data_stage': initial_data_key , 'active_ceo': "3k_main_ancillary_weapon_one_handed_axe_common", 'starting_points_delta': 0, 'auto_id': random.randint(100000, 9999999)})
                             writer.writerow({'initial_data_stage': initial_data_key , 'active_ceo': "3k_ytr_ancillary_weapon_dual_maces_common", 'starting_points_delta': 0, 'auto_id': random.randint(100000, 9999999)})
                         if element == "earth":
-                           
+                            writer.writerow({'initial_data_stage': initial_data_key , 'active_ceo': "3k_main_ancillary_weapon_sword_and_shield_common", 'starting_points_delta': 0, 'auto_id': random.randint(100000, 9999999)})
                             writer.writerow({'initial_data_stage': initial_data_key , 'active_ceo': "3k_main_ancillary_weapon_dual_swords_common", 'starting_points_delta': 0, 'auto_id': random.randint(100000, 9999999)})
                             writer.writerow({'initial_data_stage': initial_data_key , 'active_ceo': "3k_main_ancillary_weapon_one_handed_axe_common", 'starting_points_delta': 0, 'auto_id': random.randint(100000, 9999999)})
                             writer.writerow({'initial_data_stage': initial_data_key , 'active_ceo': "3k_main_ancillary_weapon_single_edged_sword_common", 'starting_points_delta': 0, 'auto_id': random.randint(100000, 9999999)})
